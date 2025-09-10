@@ -1,0 +1,16 @@
+# ninja log v6
+26	36	1750841431461594457	clean	1bcfb6ea25b88d6e
+3	26	1750841431437929500	CMakeFiles/clean.additional	fb1d6dd30a1e3e6f
+403	9946	1750849333645948322	CMakeFiles/Lesson1.dir/main.cpp.o	d531bcce810cca97
+50	402	1750849333292193608	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Debug/Lesson1_autogen/mocs_compilation.cpp	42c698cd89a51b95
+9947	10251	1750849343189646977	Lesson1	6524b5cfce761cae
+92	123	1750841431614503227	CMakeFiles/Lesson1.dir/Lesson1_autogen/mocs_compilation.cpp.o	6d21827c5f4d5140
+50	402	1750849333292193608	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Debug/Lesson1_autogen/timestamp	42c698cd89a51b95
+50	402	1750849333292193608	Lesson1_autogen/mocs_compilation.cpp	42c698cd89a51b95
+50	402	1750849333292193608	Lesson1_autogen/timestamp	42c698cd89a51b95
+61	454	1750849369582986118	Lesson1_autogen/timestamp	42c698cd89a51b95
+61	454	1750849369582986118	Lesson1_autogen/mocs_compilation.cpp	42c698cd89a51b95
+61	454	1750849369582986118	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Debug/Lesson1_autogen/timestamp	42c698cd89a51b95
+61	454	1750849369582986118	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Debug/Lesson1_autogen/mocs_compilation.cpp	42c698cd89a51b95
+456	15916	1750849369977446582	CMakeFiles/Lesson1.dir/main.cpp.o	d531bcce810cca97
+15916	16274	1750849385438385682	Lesson1	6524b5cfce761cae

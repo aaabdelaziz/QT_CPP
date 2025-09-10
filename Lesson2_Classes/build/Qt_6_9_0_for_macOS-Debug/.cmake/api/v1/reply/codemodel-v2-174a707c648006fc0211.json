@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c427329c9bba75a377ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lesson3_Classes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson3_Classes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson3_Classes-Debug-9313bc831e5e8942de7a.json",
+					"name" : "Lesson3_Classes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson3_Classes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson3_Classes_autogen-Debug-e836106689ace313791b.json",
+					"name" : "Lesson3_Classes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lesson3_Classes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lesson3_Classes_autogen_timestamp_deps-Debug-a6255dc27e9695a681b3.json",
+					"name" : "Lesson3_Classes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson3_Classes/build/Qt_6_9_0_for_macOS-Debug",
+		"source" : "/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson3_Classes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

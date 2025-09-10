@@ -1,0 +1,8 @@
+# ninja log v6
+2	85	1750841482265382801	Lesson1_autogen/timestamp	ade426a6f9f1d777
+2	85	1750841482265382801	Lesson1_autogen/mocs_compilation.cpp	ade426a6f9f1d777
+2	85	1750841482265382801	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Release/Lesson1_autogen/timestamp	ade426a6f9f1d777
+2	85	1750841482265382801	/Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson1/build/Qt_6_9_0_for_macOS-Release/Lesson1_autogen/mocs_compilation.cpp	ade426a6f9f1d777
+86	121	1750841482286293299	CMakeFiles/Lesson1.dir/Lesson1_autogen/mocs_compilation.cpp.o	d07482fef15278ee
+86	1459	1750841482286582264	CMakeFiles/Lesson1.dir/main.cpp.o	b53a15da5a72f1e8
+1462	1518	1750841483662331010	Lesson1	23123b3b208b5635

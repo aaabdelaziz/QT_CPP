@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Lesson3_Classes_FILE /Users/ahmedabdelaziz/MyBrain/SW/Embedd System/QT_Projects/Lesson3_Classes/build/Qt_6_9_0_for_macOS-Debug/Lesson3_Classes)
+set(__QT_DEPLOY_TARGET_Lesson3_Classes_TYPE EXECUTABLE)
